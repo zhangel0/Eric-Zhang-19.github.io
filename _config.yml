@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "Eric L Zhang"
 title_separator          : "-"
 subtitle                 : "Project and Portfolio Website for Eric Zhang"
-name                     : &name "Eric Zhang" # &name is a YAML anchor which can be *referenced later
+name                     : &name "David Florian" # &name is a YAML anchor which can be *referenced later
 description              : &description "Project and Portfolio Website for Eric Zhang "
 url                      : https://davidflorianjr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
