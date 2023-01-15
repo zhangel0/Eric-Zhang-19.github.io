@@ -1,28 +1,39 @@
 ---
 
-title: "About David Florian"
+title: "About Eric L Zhang"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Eric prides himself on his diverse skill set. His most prominent fields of expertise are rapid prototyping methods, design thinking skills (Human Centered Design), and mechanical and electrical design/prototyping.
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
+* The Early College at Guilford
+  * High School Diploma
+  * Service Learning Diploma
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * Bachelor of Engineering in Mechanical Engineering '23
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Eric has experience with the following additive manufacturing technologies:
 
 * Fused Filament Fabrication (FFF)
 * Stereolithography (SLA)
 * Selective Laser Sintering (SLS)
 * 3D Inkjet Printing
-* Bioplotting
+
+Eric has experience with the following subtractive manufacturing technologies:
+
+* Laser Cutting with CO2 lasers
+* Manual Controlled Milling
+* Operating Lathes, Drill Presses, and Bandsaws
+
+Other technology experiences:
+
+* Operating custom designed Friction Stir Welder converted from a manual controlled mill
+* Silicone and epoxy molding and casting techinques
+* Injection molding
 
 ## Press 
 
