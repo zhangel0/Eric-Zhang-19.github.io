@@ -2,8 +2,7 @@
 title: "Fully Automated Syringe Pump"
 excerpt: "This is a custom made automated syringe pump that can deliver various flow rates of between 1 mL / min and 60 mL / min."
 header:
-  image: /assets/img/Cyber-Scooter-Banner.jpg
-  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  image: /assets/img/SyringePump_Real_Image.jpg
 gallery:
   - url: /assets/img/Cyber-Scooter-1.jpg
     image_path: assets/img/Cyber-Scooter-1.jpg
