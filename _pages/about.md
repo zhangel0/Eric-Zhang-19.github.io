@@ -35,8 +35,5 @@ Other technology experiences:
 * Silicone and epoxy molding and casting techinques
 * Injection molding
 
-## Press 
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
-
-![David Florian](/assets/img/David_Headshot_web2.jpg)
+![Eric Zhang](/assets/img/Github_Headshot.jpg)
