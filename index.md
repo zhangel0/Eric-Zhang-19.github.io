@@ -14,10 +14,10 @@ feature_row:
     alt: "Friction Stir Welding"
     title: "Wired Thermite Ignition to Break Friction Stir Extrusion Welds"
     excerpt: "Utilizing thin nichrome and kanthal wires to ignite thermite and break FSE joints."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
+  - image_path: assets/img/FSE_Pipe_Mounting_Overview.jpg
+    alt: "Friction Stir Welding"
+    title: "Friction Stir Welding of PVC Tubes"
+    excerpt: "An FSW is used to weld together two PVC pipes"
   - image_path: assets/img/Zidex-Thumbnail.jpg
     title: "Bespoke IDEX 3D Printer"
     excerpt: "Multimaterial printing. "
