@@ -9,7 +9,7 @@ gallery:
 ---
 # Project Purpose 
 
-Syringe pumps are commonly used in many biological, chemical, and engineering laboratories. Regardless of the substance that is within these syringe pumps, having to constantly pump these substances into numerous test tubes can be extremely time consuming. Furthermore, when flowrate is important, pumping by hand will not yield the most consistent flowrate over time. This automated syringe pump takes a few steps towards making pumping syringes more convenient and consistent.
+Syringe pumps are commonly used in many biological, chemical, and engineering laboratories. Regardless of the substance that is within these syringe pumps, having to constantly pump these substances into numerous test tubes by hand can be extremely time consuming. Furthermore, when flowrate is important, pumping by hand will not yield the most consistent flowrate over time. This automated syringe pump takes a few steps towards making pumping syringes more convenient and consistent.
 
 # CAD Model
 
