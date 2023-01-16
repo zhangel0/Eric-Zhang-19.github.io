@@ -6,7 +6,7 @@ title: "About Eric L Zhang"
 
 ## Education
 
-Eric prides himself on his diverse skill set. His most prominent fields of expertise are rapid prototyping methods, design thinking skills (Human Centered Design), and mechanical and electrical design/prototyping.
+Eric prides himself on his diverse skill set. His most prominent fields of expertise are rapid prototyping methods, design thinking skills (Human Centered Design), and mechanical and electrical design/prototyping. Eric has worked at The Wondry - Vanderbilt's Innovation Center - for three years and has been an undergraduate researcher in the Welding Automation Lab for two years.
 
 * The Early College at Guilford
   * High School Diploma
