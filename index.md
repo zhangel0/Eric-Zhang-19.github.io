@@ -19,6 +19,10 @@ feature_row:
     alt: "Friction Stir Welding"
     title: "Friction Stir Welding of PVC Tubes"
     excerpt: "An FSW is used to weld together two PVC pipes"
+  - image_path: assets/img/Senior_Design.jpg
+    alt: "Mechanical Engineering Senior Design Project"
+    title: "Nissan Hose Clamp Automation Project"
+    excerpt: "Automating a hose clamping process for Nissan engine hoses with designed mechanisms and a Universal Cobot Arm."
 
 ---
 
