@@ -17,12 +17,37 @@ Syringe pumps are commonly used in many biological, chemical, and engineering la
 
 # Project Description
 
-The syringe pump comes with two different sized syringe mounts - one 5 mL and one 20 mL. One toggle push button is used to activate the pumping of the syringe and one manual push button is used to retract the syringe after the substance has been fully pumped out. The manual push button can also be used to refill the syringes if necessary. As a safety precaution, a limit switch is incorporated to stop the syringe pump automatically once all of the substance is pumped out. For the user, an LED indicator will light up green when the syringe pump is pumping, yellow when it is paused, red when it is empty, and blue when it is being retracted. To control the pumping speed, simply go into the Arduino code and input the desired flowrate. The code will automatically calculate the motor speed required to fulfill the flowrate.
+The syringe pump comes with two different sized syringe mounts - one 5 mL and one 20 mL. One toggle push button is used to activate the pumping of the syringe and one manual push button is used to retract the syringe after the substance has been fully pumped out. The manual push button can also be used to refill the syringes if necessary. As a safety precaution, a limit switch is incorporated to stop the syringe pump automatically once all of the substance is pumped out. For the user, an LED indicator will light up green when the syringe pump is pumping, yellow when it is paused, red when it is empty, and blue when it is being retracted. To control the pumping speed, simply go into the Arduino code and input the desired flowrate. The code will automatically calculate the motor speed required to fulfill the flowrate. The electronics and controls are housed in a 3D printed casing to shield them from possible leaks when pumping the syringes. 
 
 # Circuit Schematic
 
 # Arduino Code
 
 # Bill of Materials (Component List)
+
+| Off-the-shelf  | Quanity |
+| ------------- | ------------- |
+| 2mm Lead Screw  | 1 |
+| 1/4" x 8mm Flexible Coupling  | 1  |
+| 200mm linear rod with 8 mm diameter  | 1  |
+| Linear bearing with 8 mm diameter  | 1  |
+| 2040 Aluminum Extrusion 1' Length  | 1  |
+| Nema 17 Stepper Motor  | 1  |
+| Arduino Mega 2560  | 1  |
+| A4988 Stepper Driver  | 1  |
+| Breadboard  | 1  |
+| Toggle Push Button  | 1  |
+| Large Push Button  | 1  |
+| Limit Switch  | 1  |
+| RGB Common Cathode LED  | 1  |
+
+
+| 3D Printed  | Quanity |
+| ------------- | ------------- |
+| Electronics Housing  | 1 |
+| Motor Mount  | 1 |
+| Syringe Mount  | 1 |
+| Syringe Pusher  | 1 |
+| Syringe Stabilizer | 1 |
 
 # Technical Drawings
