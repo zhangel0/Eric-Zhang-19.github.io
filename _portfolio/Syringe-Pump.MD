@@ -23,6 +23,7 @@ The syringe pump comes with two different sized syringe mounts - one 5 mL and on
 
 # Arduino Code
 
+[Link to Arduino Code] /SyringePumpCompletedCode.ino
 # Bill of Materials (Component List)
 
 | Off-the-shelf  | Quanity |
