@@ -19,9 +19,7 @@ feature_row:
     alt: "Friction Stir Welding"
     title: "Friction Stir Welding of PVC Tubes"
     excerpt: "An FSW is used to weld together two PVC pipes"
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+
 ---
 
 {% include feature_row %}
