@@ -23,7 +23,9 @@ The syringe pump comes with two different sized syringe mounts - one 5 mL and on
 4. Upload code into the Arduino Mega via USB.
 5. Push toggle button next to LED to begin pumping process.
 6. Wait until pumping process is complete.
-7. Once completed use large push button to 
+7. Once completed press large push button to retract syringe pump off the limit switch.
+8. From here either refill the syringe pumps with the large push button, or take off the syringes and fill separately
+9. Repeat steps 1-7 for another trial.
 
 # CAD Model
 
