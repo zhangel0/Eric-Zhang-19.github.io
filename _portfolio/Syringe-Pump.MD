@@ -31,9 +31,6 @@ The syringe pump comes with two different sized syringe mounts - one 5 mL and on
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e430f512e2512051b03?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Circuit Schematic
-
-  image_path: /assets/img/SPump_Circuit_Schematic.jpg
 
 # Arduino Code
 
@@ -65,4 +62,3 @@ The syringe pump comes with two different sized syringe mounts - one 5 mL and on
 | Syringe Pusher  | 1 |
 | Syringe Stabilizer | 1 |
 
-# Technical Drawings
