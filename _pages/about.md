@@ -83,6 +83,6 @@ Other technology experiences:
 ## Publications
 Formation of encapsulated pyrotechnic joint via friction stir extrusion: https://www.sciencedirect.com/science/article/pii/S2213846322000189
 
-
+---
 
 ![Eric Zhang](/assets/img/Github_Headshot.jpg)
