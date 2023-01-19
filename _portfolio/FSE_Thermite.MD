@@ -39,6 +39,9 @@ For detailed procedure of setup, parameters, and execution, see published manufa
 8. Pack thermite paste into volumes with arbor press or hands depending on the size of test volumes
 9. Let thermite cure in volume for 24 hours over night
 
+# Figures
+
+
 # Bill of Materials (Component List)
 
 | Off-the-shelf  | Quanity |
