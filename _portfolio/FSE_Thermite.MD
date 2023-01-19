@@ -24,7 +24,7 @@ Since the thermite paste has an ignition temperature of approximately 2,000°C, 
 
 Further observations showed that this method of ignition created a gradual release of energy over time rather than the desired release of energy all at once. To make the reaction more explosive, methods of igniting the thermite by running thin 36 gage nichrome and kanthal wires through the entire volume of paste are used. A current of 7 A and a voltage of approximately 34 V was run through the thin wires to ignite the thermite after about six seconds on average. 
 ### Video of Nichrome Wire Thermite Ignition
-video: /assets/img/Nichrome_Burn_4.mov
+  video: /assets/img/Nichrome_Burn_4.mov
 # Procedure
 
 
