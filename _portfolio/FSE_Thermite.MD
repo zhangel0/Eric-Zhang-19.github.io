@@ -43,28 +43,27 @@ For detailed procedure of setup, parameters, and execution, see published manufa
 
 | Off-the-shelf  | Quanity |
 | ------------- | ------------- |
-| 2mm Lead Screw  | 1 |
-| 1/4" x 8mm Flexible Coupling  | 1  |
-| 200mm linear rod with 8 mm diameter  | 1  |
-| Linear bearing with 8 mm diameter  | 1  |
-| 2040 Aluminum Extrusion 1' Length  | 1  |
-| Nema 17 Stepper Motor  | 1  |
-| Arduino Mega 2560  | 1  |
-| A4988 Stepper Driver  | 1  |
-| Breadboard  | 1  |
-| Toggle Push Button  | 1  |
-| Large Push Button  | 1  |
-| Limit Switch  | 1  |
-| RGB Common Cathode LED  | 1  |
+| 30 Micron Red Iron Oxide Powder Bag by Alpha Chemicals  | 1 |
+| 30 Micron Aluminum Powder Bag by Alpha Chemicals | 1  |
+| Calcium Sulfate Powder Bag  | 1  |
+| Scale  | 1  |
+| Bottle Water or sink water | 1  |
+| Pack of Small or Medium Sized Cups  | 1  |
+| Magnesium ribbon  | 1  |
+| 36 Gage Nichrome Wire Roll  | 1  |
+| 36 Gage Kanthal Wire Roll  | 1  |
+| Power Supply with Voltage and Current Display  | 1  |
+| Alligator Clips and Power Supply Connectors  | 6  |
+| Pack of Popscicle Sticks for Mixing | 1  |
+| Blow Torch  | 1  |
+| Fume Funnel | 1 |
 
-
-| 3D Printed  | Quanity |
+| Fabricated Parts  | Quanity |
 | ------------- | ------------- |
-| Electronics Housing  | 1 |
-| Motor Mount  | 1 |
-| Syringe Mount  | 1 |
-| Syringe Pusher  | 1 |
-| Syringe Stabilizer | 1 |
+| Acrylic housing box to contain thermite reaction  | 1 |
+| 3D printed containers for thermite wire ignition experiments  | 24 |
+| 3D printed PLA channels for magnesium thermite ignition experiments  | 30|
+
 
 # Link to Published Manufacturing Letter on the Pyrotechnic Joint Formation
 
