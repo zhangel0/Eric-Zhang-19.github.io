@@ -2,8 +2,8 @@
 title: "Friction Stir Extruded (FSE) Pyrotechnic Joints"
 excerpt: "This is a research project that I am currently working on that examines the use of thermite to separate FSE joints of dissimilar materials."
 header:
-  image: /assets/img/SyringePump_Real_Image.jpg
-  teaser: /assets/img/SyringePump_Teaser_Image.jpg
+  image: /assets/img/FSE_Thermite.jpg
+  teaser: /assets/img/FSE_Thermite_Joint.jpg
 gallery:
 
 ---
@@ -23,8 +23,7 @@ A 25 mm aluminum block (bottom piece with thermite and cavity) and a 6.35 mm AA6
 Since the thermite paste has an ignition temperature of approximately 2,000°C, the thermite was ignited by lighting thin magnesium sheets that would be placed on the surface of the exposed thermite paste. The burning magnesium would then produce enough heat to ignite the thermite paste. Igniting the thermite paste this way was not able to separate the FSE joints created.
 
 Further observations showed that this method of ignition created a gradual release of energy over time rather than the desired release of energy all at once. To make the reaction more explosive, methods of igniting the thermite by running thin 36 gage nichrome and kanthal wires through the entire volume of paste are used. A current of 7 A and a voltage of approximately 34 V was run through the thin wires to ignite the thermite after about six seconds on average. 
-### Video of Nichrome Wire Thermite Ignition
-  video: /assets/img/Nichrome_Burn_4.mov
+
 # Procedure
 
 
@@ -55,4 +54,4 @@ Further observations showed that this method of ignition created a gradual relea
 | Syringe Pusher  | 1 |
 | Syringe Stabilizer | 1 |
 
-
+# Link to Published Manufacturing Letter on the Pyrotechnic Joint Formation
