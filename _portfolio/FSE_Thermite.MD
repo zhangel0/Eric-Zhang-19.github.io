@@ -52,6 +52,7 @@ For detailed procedure of setup, parameters, and execution, see published manufa
 | Magnesium ribbon  | 1  |
 | 36 Gage Nichrome Wire Roll  | 1  |
 | 36 Gage Kanthal Wire Roll  | 1  |
+| 16 Gage Steel Wire Roll  | 1 |
 | Power Supply with Voltage and Current Display  | 1  |
 | Alligator Clips and Power Supply Connectors  | 6  |
 | Pack of Popscicle Sticks for Mixing | 1  |
