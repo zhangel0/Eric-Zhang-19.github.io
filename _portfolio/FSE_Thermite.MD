@@ -26,6 +26,18 @@ Further observations showed that this method of ignition created a gradual relea
 
 # Procedure
 
+For detailed procedure of setup, parameters, and execution, see published manufacturing letter below.
+
+## Thermite Paste Creation
+1. Obtain packs of 30 micron iron oxide and Al powder
+2. Obtain water and calcium sulfate powder
+3. Measure masses of iron oxide, Al, calcium sulfate, and water separately with 3:2:2:1 ratios respectively
+4. Mix iron oxide, Al, and calcium sulfate powders until Al and calcium sulfate powders are no longer distinctly visible
+5. Pour water into mixture and continue mixing for 10-15 seconds
+6. If mixture begins to cure immediately add more water to slow curing process
+7. Pour mixture into holes or necessary test volumes
+8. Pack thermite paste into volumes with arbor press or hands depending on the size of test volumes
+9. Let thermite cure in volume for 24 hours over night
 
 # Bill of Materials (Component List)
 
@@ -55,3 +67,5 @@ Further observations showed that this method of ignition created a gradual relea
 | Syringe Stabilizer | 1 |
 
 # Link to Published Manufacturing Letter on the Pyrotechnic Joint Formation
+
+https://www.sciencedirect.com/science/article/pii/S2213846322000189
