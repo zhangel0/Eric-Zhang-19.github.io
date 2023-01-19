@@ -59,6 +59,7 @@ For detailed procedure of setup, parameters, and execution, see published manufa
 | Blow Torch  | 1  |
 | Fume Funnel | 1 |
 | Bag of sand to put out flames | 1 |
+| United Nuclear Thermite Ignition Mix  | 1 |
 
 | Fabricated Parts  | Quanity |
 | ------------- | ------------- |
