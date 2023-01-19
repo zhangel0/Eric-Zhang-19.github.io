@@ -58,6 +58,7 @@ For detailed procedure of setup, parameters, and execution, see published manufa
 | Pack of Popscicle Sticks for Mixing | 1  |
 | Blow Torch  | 1  |
 | Fume Funnel | 1 |
+| Bag of sand to put out flames | 1 |
 
 | Fabricated Parts  | Quanity |
 | ------------- | ------------- |
