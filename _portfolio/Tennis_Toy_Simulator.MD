@@ -12,7 +12,27 @@ gallery:
 - url: /assets/img/TennisToy_Draw2.png
   image_path: /assets/img/TennisToy_Draw2.png
   alt: "Place Holder Image 2"
-
+- url: /assets/img/TennisToy_CAD1.jpg
+  image_path: /assets/img/TennisToy_CAD1.jpg
+  alt: "Place Holder Image 3"
+- url: /assets/img/TennisToy_CAD2.jpg
+  image_path: /assets/img/TennisToy_CAD2.jpg
+  alt: "Place Holder Image 4"
+- url: /assets/img/TennisToy_CAD3.jpg
+  image_path: /assets/img/TennisToy_CAD3.jpg
+  alt: "Place Holder Image 5"
+- url: /assets/img/TennisToy_CAD4.jpg
+  image_path: /assets/img/TennisToy_CAD4.jpg
+  alt: "Place Holder Image 6"
+- url: /assets/img/TennisToy_CAD5.jpg
+  image_path: /assets/img/TennisToy_CAD5.jpg
+  alt: "Place Holder Image 7"
+- url: /assets/img/TennisToy_CAD6.jpg
+  image_path: /assets/img/TennisToy_CAD6.jpg
+  alt: "Place Holder Image 8"
+- url: /assets/img/TennisToy_AutoCAD.jpg
+  image_path: /assets/img/TennisToy_AutoCAD.jpg
+  alt: "Place Holder Image 9"
 ---
 # System Description 
 
