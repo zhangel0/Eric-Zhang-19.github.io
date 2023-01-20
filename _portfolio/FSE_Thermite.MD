@@ -5,12 +5,19 @@ header:
   image: /assets/img/FSE_Thermite.jpg
   teaser: /assets/img/FSE_Thermite_Joint.jpg
 gallery:
-  image: /assets/img/Post_FSE_Burn.jpg
-  image: /assets/img/Initial_Thermite_Burn.jpg
-  image: /assets/img/Nichrome_Wire_Setup.jpg
-  image: /assets/img/Wire_Ignition_Setup.jpg
+  - url: /assets/img/Post_FSE_Burn.jpg
+    image_path: /assets/img/Post_FSE_Burn.jpg
+    alt: "placeholder image 1"
+  - url: /assets/img/Initial_Thermite_Burn.jpg
+    image_path: /assets/img/Initial_Thermite_Burn.jpg
+    alt: "placeholder image 2"
+  - url: /assets/img/Nichrome_Wire_Setup.jpg
+    image_path: /assets/img/Nichrome_Wire_Setup.jpg
+    alt: "placeholder image 3"
+  - url: /assets/img/Wire_Ignition_Setup.jpg
+    image_path: /assets/img/Wire_Ignition_Setup.jpg
+    alt: "placeholder image 4"
   
-
 ---
 # Project Background 
 
