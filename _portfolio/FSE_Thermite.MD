@@ -6,11 +6,8 @@ header:
   teaser: /assets/img/FSE_Thermite_Joint.jpg
 gallery:
   image: /assets/img/Post_FSE_Burn.jpg
- 
   image: /assets/img/Initial_Thermite_Burn.jpg
-
   image: /assets/img/Nichrome_Wire_Setup.jpg
-
   image: /assets/img/Wire_Ignition_Setup.jpg
   
 
