@@ -51,7 +51,9 @@ For detailed procedure of setup, parameters, and execution, see published manufa
 8. Pack thermite paste into volumes with arbor press or hands depending on the size of test volumes
 9. Let thermite cure in volume for 24 hours over night
 
-# Image Descriptions
+# Figures and Descriptions
+
+{% include gallery caption="This is a gallery of experiments during the research." %}
 
 1. Figure 1 - Bottom piece of FSE weld after thermite ignition tests. The top Aluminum plate was removed manually.
 2. Figure 2 - Initial thermite burn experimental setup.
