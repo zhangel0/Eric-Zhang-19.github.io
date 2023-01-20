@@ -5,7 +5,18 @@ header:
   image: /assets/img/FSE_Thermite.jpg
   teaser: /assets/img/FSE_Thermite_Joint.jpg
 gallery:
-
+ image: /assets/img/Post_FSE_Burn.jpg
+ Figure 1: Bottom piece of FSE weld after thermite ignition tests. The top Aluminum plate was removed manually.
+ 
+  image: /assets/img/Initial_Thermite_Burn.jpg
+ Figure 2: Initial thermite burn experimental setup
+ 
+  image: /assets/img/Nichrome_Wire_Setup.jpg
+ Figure 3: Depiction of how the steel wire and nichrome/kanthal wires were placed in the 3D printed test volume
+ 
+  image: /assets/img/Wire_Ignition_Setup.jpg
+  Figure 4: Setup with thermite filled volume and steel wires hooked up to outside power supply via alligator clips
+ Figure 4: Setup with thermite filled volume and steel wires hooked up to outside power supply via alligator clips
 ---
 # Project Background 
 
@@ -39,19 +50,6 @@ For detailed procedure of setup, parameters, and execution, see published manufa
 8. Pack thermite paste into volumes with arbor press or hands depending on the size of test volumes
 9. Let thermite cure in volume for 24 hours over night
 
-# Figures
-
-  image: /assets/img/Post_FSE_Burn.jpg
- Figure 1: Bottom piece of FSE weld after thermite ignition tests. The top Aluminum plate was removed manually.
- 
-  image: /assets/img/Initial_Thermite_Burn.jpg
- Figure 2: Initial thermite burn experimental setup
- 
-  image: /assets/img/Nichrome_Wire_Setup.jpg
- Figure 3: Depiction of how the steel wire and nichrome/kanthal wires were placed in the 3D printed test volume
- 
-  image: /assets/img/Wire_Ignition_Setup.jpg
- Figure 4: Setup with thermite filled volume and steel wires hooked up to outside power supply via alligator clips
 
 # Bill of Materials (Component List)
 
