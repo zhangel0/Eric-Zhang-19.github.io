@@ -16,7 +16,7 @@ gallery:
  
   image: /assets/img/Wire_Ignition_Setup.jpg
   Figure 4: Setup with thermite filled volume and steel wires hooked up to outside power supply via alligator clips
- Figure 4: Setup with thermite filled volume and steel wires hooked up to outside power supply via alligator clips
+
 ---
 # Project Background 
 
