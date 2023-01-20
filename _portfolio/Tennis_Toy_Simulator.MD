@@ -6,6 +6,13 @@ header:
   teaser: /assets/img/Lego_TennisToy.png
 gallery:
 
+- url: /assets/img/TennisToy_Draw1.png
+  image_path: /assets/img/TennisToy_Draw1.png
+  alt: "Placeholder Image 1"
+- url: /assets/img/TennisToy_Draw2.png
+  image_path: /assets/img/TennisToy_Draw2.png
+  alt: "Place Holder Image 2"
+
 ---
 # System Description 
 
@@ -33,14 +40,12 @@ I had to utilize PWM and H-bridge setup to drive the DC motor. Understanding how
 8. From here either refill the syringe pumps with the large push button, or take off the syringes and fill separately
 9. Repeat steps 1-7 for another trial.
 
-# CAD Model
-
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e430f512e2512051b03?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+# Drawings and CAD Images
 
 
 # Arduino Code
 
-[Link to Arduino Code](/SyringePumpCompletedCode.ino)
+[Link to Arduino Code](/MechFinalProject_Button_Ultrasonic_Integration.ino)
 # Bill of Materials (Component List)
 
 | Off-the-shelf  | Quanity |
