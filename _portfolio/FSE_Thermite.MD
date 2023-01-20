@@ -11,8 +11,8 @@ gallery:
   - url: /assets/img/Initial_Thermite_Burn.jpg
     image_path: /assets/img/Initial_Thermite_Burn.jpg
     alt: "placeholder image 2"
-  - url: /assets/img/Nichrome_Wire_Setup.jpg
-    image_path: /assets/img/Nichrome_Wire_Setup.jpg
+  - url: /assets/img/Nichrome_wire_Setup.jpg
+    image_path: /assets/img/Nichrome_wire_Setup.jpg
     alt: "placeholder image 3"
   - url: /assets/img/Wire_Ignition_Setup.jpg
     image_path: /assets/img/Wire_Ignition_Setup.jpg
