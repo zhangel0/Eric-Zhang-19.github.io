@@ -5,7 +5,7 @@ header:
   image: /assets/img/FSE_Thermite.jpg
   teaser: /assets/img/FSE_Thermite_Joint.jpg
 gallery:
- image: /assets/img/Post_FSE_Burn.jpg
+  image: /assets/img/Post_FSE_Burn.jpg
  Figure 1 - Bottom piece of FSE weld after thermite ignition tests. The top Aluminum plate was removed manually.
   image: /assets/img/Initial_Thermite_Burn.jpg
  Figure 2 - Initial thermite burn experimental setup
