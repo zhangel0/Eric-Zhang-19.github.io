@@ -2,8 +2,8 @@
 title: "Tennis Toy Simulator"
 excerpt: "The first prototype of a toy that simulates a LEGO figurehead hitting a tennis ball."
 header:
-  image: /assets/img/SyringePump_Real_Image.jpg
-  teaser: /assets/img/SyringePump_Teaser_Image.jpg
+  image: /assets/img/Lego_TennisToy.png
+  teaser: /assets/img/Lego_TennisToy.png
 gallery:
 
 ---
