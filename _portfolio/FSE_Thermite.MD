@@ -49,10 +49,10 @@ For detailed procedure of setup, parameters, and execution, see published manufa
 
 # Image Descriptions
 
-Figure 1 - Bottom piece of FSE weld after thermite ignition tests. The top Aluminum plate was removed manually.
-Figure 2 - Initial thermite burn experimental setup.
-Figure 3 - Depiction of how the steel wire and nichrome/kanthal wires were placed in the 3D printed test volume.
-Figure 4 - Setup with thermite filled volume and steel wires hooked up to outside power supply via alligator clips.
+1. Figure 1 - Bottom piece of FSE weld after thermite ignition tests. The top Aluminum plate was removed manually.
+2. Figure 2 - Initial thermite burn experimental setup.
+3. Figure 3 - Depiction of how the steel wire and nichrome/kanthal wires were placed in the 3D printed test volume.
+4. Figure 4 - Setup with thermite filled volume and steel wires hooked up to outside power supply via alligator clips.
 
 # Bill of Materials (Component List)
 
