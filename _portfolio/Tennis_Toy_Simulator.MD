@@ -42,32 +42,29 @@ I had to utilize PWM and H-bridge setup to drive the DC motor. Understanding how
 
 # Drawings and CAD Images
 
-
+{% include gallery caption="This is a gallery of the initial drawing ideas and SolidWorks and AutoCAD files used to create first prototype." %}
 # Arduino Code
 
 [Link to Arduino Code](/MechFinalProject_Button_Ultrasonic_Integration.ino)
 # Bill of Materials (Component List)
 
-| Off-the-shelf  | Quanity |
+| Off-the-shelf  | Quantity |
 | ------------- | ------------- |
-| 2mm Lead Screw  | 1 |
-| 1/4" x 8mm Flexible Coupling  | 1  |
-| 200mm linear rod with 8 mm diameter  | 1  |
-| Linear bearing with 8 mm diameter  | 1  |
-| 2040 Aluminum Extrusion 1' Length  | 1  |
-| Nema 17 Stepper Motor  | 1  |
-| Arduino Mega 2560  | 1  |
-| A4988 Stepper Driver  | 1  |
+| Arduino Uno  | 1 |
+| Jumper Wires and Alligator Clips  | Many |
+| USB to type A/B  | 1  |
+| Ultrasonic sensor HC-SR04  | 1  |
+| LCD I2C for Arduino  | 1  |
+| Easyget 5v 100mm Dome Shaped Jumbo LED Illuminated Self-resetting Push Button Switch for Arcade Game Projects (for final product)  | 1  |
+| DC Motor  | 1  |
+| LEDs  | 1  |
 | Breadboard  | 1  |
-| Toggle Push Button  | 1  |
-| Large Push Button  | 1  |
-| Limit Switch  | 1  |
-| RGB Common Cathode LED  | 1  |
+| L293D H-Driver  | 1  |
 
 
-| 3D Printed  | Quanity |
+
+| Digitally Fabricated  | Quantity |
 | ------------- | ------------- |
-| Electronics Housing  | 1 |
 | Motor Mount  | 1 |
 | Syringe Mount  | 1 |
 | Syringe Pusher  | 1 |
