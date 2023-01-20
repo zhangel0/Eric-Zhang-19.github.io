@@ -80,14 +80,3 @@ I had to utilize PWM and H-bridge setup to drive the DC motor. Understanding how
 | LEDs  | 1  |
 | Breadboard  | 1  |
 | L293D H-Driver  | 1  |
-
-
-
-| Digitally Fabricated  | Quantity |
-| ------------- | ------------- |
-| Motor Mount  | 1 |
-| Syringe Mount  | 1 |
-| Syringe Pusher  | 1 |
-| Syringe Stabilizer | 1 |
-
-
