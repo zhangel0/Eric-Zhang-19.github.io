@@ -24,6 +24,10 @@ As a Vanderbilt mechanical engineering senior design project, prototyping for th
 
 ## Robot and Tray CAD
 
+The CAD models below depict two tray prototypes that I have been working on for our third DBT cycle. The purpose of the trays is to keep the hoses and the robot arm in the same frame of reference at all times. This is crucial to the functionality of the robot because the robot is coded primarily using the waypoint function, which means the robot is moving using distances and coordinates relative to the robot base. If the robot base moves, then this waypoint is no longer valid for the original hose position unless the hose is moved the same vector distance and direction the robot base moves. The tray attachment eliminates this issue all together.
+
+For the Tray prototype CAD models below, the first CAD model depicts the tray design itself. This CAD model also contains static load analysis that can be viewed by clicking the cube in the top left corner of the CAD display. The load analysis was done to ensure that the tray would not fail while the hoses are mounted. The second CAD model depicts how the tray will be mounted to the robot base. 
+
 ### Tray Prototype 1
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43288349ad051a0725?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
