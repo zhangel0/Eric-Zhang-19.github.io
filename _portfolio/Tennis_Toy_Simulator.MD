@@ -50,15 +50,16 @@ I had to utilize PWM and H-bridge setup to drive the DC motor. Understanding how
 
 # Operating Procedure
 
-1. Make sure syringe pump is in the correct orientation for filled or empty syringes.
-2. Preload filled syringes or load empty syringes.
-3. Input desired flowrate into code.
-4. Upload code into the Arduino Mega via USB.
-5. Push toggle button next to LED to begin pumping process.
-6. Wait until pumping process is complete.
-7. Once completed press large push button to retract syringe pump off the limit switch.
-8. From here either refill the syringe pumps with the large push button, or take off the syringes and fill separately
-9. Repeat steps 1-7 for another trial.
+1. Make sure nothing is in between the button and the sensor.
+2. Slide button along rack and pinion until it is within 30 mm.
+3. The gears will start to spin the toy tennis player once the button is within the 30 mm of the sensor.
+4. Move button a few mm closer if the sensor does not register (sensor has certain tolerances)
+5. Wait until the racket hits and presses the button.
+6. The toy will then turn back to its original position after button contact.
+7. Slide button back behind the 30 mm mark after the button has been pressed.
+8. Repeat steps 1-7 to continue playing with the toy.
+9. The loop will continue if the button stays within the 30 mm mark.
+
 
 # Drawings and CAD Images
 
