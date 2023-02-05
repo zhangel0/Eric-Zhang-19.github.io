@@ -14,11 +14,19 @@ Nissan's manufacturing plant in Smyrna, TN has been pushing to fully automate as
 
 # Project Description
 
-As a Vanderbilt mechanical engineering senior design project, prototyping for this project was split into five large Design, Built, & Test (DBT) cycles over the course of two full semesters. As of February 4, 2023, three of these DBT cycles have been successfully completed and significant progress has been made in all aspects of the design project. Currently for the clamp portion of the project we have a new system to sort the clamps efficiently, dispenses the clamps in a controlled manner, and opens the clamps. For the hose and robot side of the project, we have working robot palletization code, an efficient method of mounting the hoses, and a designed tray add-on to the robot stand to keep everything in the same frame of reference at all times. 
+As a Vanderbilt mechanical engineering senior design project, prototyping for this project was split into five large Design, Built, & Test (DBT) cycles over the course of two full semesters. The team meets weekly with Nissan sponsors of the project and biweekly with project overseers and Vanderbilt professors. As of February 4, 2023, three of these DBT cycles have been successfully completed and significant progress has been made in all aspects of the design project. Currently for the clamp portion of the project we have a new system to sort the clamps efficiently, dispenses the clamps in a controlled manner, and opens the clamps. For the hose and robot side of the project, we have working robot palletization code, an efficient method of mounting the hoses, and a designed tray add-on to the robot stand to keep everything in the same frame of reference at all times. 
 
 # DBT Cycle 1
 
+The first DBT cycle was primarily fully understanding the problem at hand and basic design thinking implementation. This included understanding the current solution, understanding the robot functions, and mass ideation of designs. After writing down numerous ideas, we narrowed down to four ideas to test and prototype for the first DBT cycle. 
+
 # DBT Cycle 2
+
+The second DBT cycle focused on idenitfying the necessary individual mechanisms for the clamp and the hoses. This involved narrowing ideas down to one ideal solution per mechanism after the first DBT cycle. This is when the basic idea for the current mechanisms were formed: a constant rotary mechanism to pick up and sort clamps onto a ramp, a dispensing mechanism that controls clamp orientation and feeding speeds of the clamps into the opening mechanisms, a rotary clamp opening mechanism with 270 degrees of freedom for the clamp to drop in, and a linear actuator mechanism to translate the mechanism away from the dispenser to make space for the hose to insert into the mechanism.
+
+## Linear Actuator and Clamp Opening Mechanism CAD
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43837daac11f693bd2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # DBT Cycle 3
 
