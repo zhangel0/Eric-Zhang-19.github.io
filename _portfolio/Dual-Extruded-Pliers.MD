@@ -20,6 +20,8 @@ The purpose of this project is to design a set of pliers around certain design c
 
 # CAD Model
 
+The CAD model below demonstrates the assembled plier model that will be sliced and printed. The white parts are PLA and the gold parts are TPU.
+
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43d086145ab6560069?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
