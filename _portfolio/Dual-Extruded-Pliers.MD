@@ -2,8 +2,8 @@
 title: "Dual Extruded Pliers (TPU and PLA)"
 excerpt: "A custom created plier that was specially designed in Fusion 360 to be printed on a dual extruder Makergear 3D printer."
 header:
-  image: /assets/img/
-  teaser: /assets/img/
+  image: /assets/img/IMG_7956
+  teaser: /assets/img/IMG_7955
 gallery:
 
 ---
