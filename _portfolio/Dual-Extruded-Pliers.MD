@@ -28,7 +28,14 @@ The CAD model below demonstrates the assembled plier model that will be sliced a
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43d086145ab6560069?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+## Individual Plier Parts
 
+### Part 1
 
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43d763ec3b0f5cb0ce?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+### Part 2
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e435bbc758b44bca0cd?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
