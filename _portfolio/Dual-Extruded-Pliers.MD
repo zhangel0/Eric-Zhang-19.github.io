@@ -14,10 +14,14 @@ The purpose of this project is to design a set of pliers around certain design c
 # Project Description
 
 ## Plier Design
+
 As previously stated, this set of pliers is fabricated out of PLA and TPU parts. This set is modeled after traditional metal pliers where the two main parts are interlocked and rotate via a center piece. The center piece is designed to allow the two parts of the pliers to be easily assembled and disassembled. The piece is a cylinder with a rectangular slot cut in the middle that allows the piece to be more easily pinched or compressed. The top edge of the cylinder is wider than the rest of the piece, so once the edge is all the way through the circular slot, the two parts are locked together unless the center piece is pinched to allow the parts to disassemble. 
 
 The spring component of these pliers is a thin rectangular piece that takes the shape of the two equal sides of an isosceles triangle. This shape, combined with the material properties of TPU, allow the pliers to be easily compressed without experiencing plastic deformation. The spring piece is placed halfway down the handle of the pliers, and the TPU spring and PLA handles are interlocked via a T shape slot. The heads of the pliers are approximately 32 mm long and up to 10.5 mm wide. The head features 16 1 mm long teeth on each side. These teeth assist the pliers in picking up smaller and softer objects. The head is set to have a distance of 14 mm between each head piece when at rest. 
 
+## Print Settings
+
+To print these pliers, the default print settings had to be adjusted to account for the dual extrusion of two different materials. Since TPU and PLA do not adhere to one another, the wipe tower was added instead of the ooze prevention. Extruder 0 was set to be the PLA extruder and extruder 1 was set to TPU. The TPU extruder temperature was changed to 240 degrees C vs the PLA extruder's 210 degrees C. The bed temperature was set to 60 degrees C. For extruder 1, the extrusion speed was set to 25 mm/s max and the retraction speed was set to 15 mm/s. 
 
 # Operating Procedure
 
