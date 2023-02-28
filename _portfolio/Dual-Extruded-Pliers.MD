@@ -38,8 +38,6 @@ The spring component of these pliers is a thin rectangular piece that takes the 
 
 To print these pliers, the default print settings had to be adjusted to account for the dual extrusion of two different materials. Since TPU and PLA do not adhere to one another, the wipe tower was added instead of the ooze prevention. Extruder 0 was set to be the PLA extruder and extruder 1 was set to TPU. The TPU extruder temperature was changed to 240 degrees C vs the PLA extruder's 210 degrees C. The bed temperature was set to 60 degrees C. For extruder 1, the extrusion speed was set to 25 mm/s max and the retraction speed was set to 15 mm/s. 
 
-# Operating Procedure
-
 
 # CAD Model
 
