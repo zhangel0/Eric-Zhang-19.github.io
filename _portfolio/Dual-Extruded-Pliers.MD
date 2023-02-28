@@ -2,10 +2,25 @@
 title: "Dual Extruded Pliers (TPU and PLA)"
 excerpt: "A custom created plier that was specially designed in Fusion 360 to be printed on a dual extruder Makergear 3D printer."
 header:
-  image: /assets/img/IMG_7956
-  teaser: /assets/img/IMG_7955
+  image: /assets/img/IMG_7956.jpg
+  teaser: /assets/img/IMG_7955.jpg
 gallery:
-
+  - url: /assets/img/IMG_7954
+    image_path: /assets/img/IMG_7954.jpg
+    alt: "placeholder image 1"
+  - url: /assets/img/IMG_7957.jpg
+    image_path: /assets/img/IMG_7957.jpg
+    alt: "placeholder image 2"
+  - url: /assets/img/IMG_7958.jpg
+    image_path: /assets/img/IMG_7958.jpg
+    alt: "placeholder image 3"
+  - url: /assets/img/IMG_7959.jpg
+    image_path: /assets/img/IMG_7959.jpg
+    alt: "placeholder image 4"
+  - url: /assets/img/IMG_7960.jpg
+    image_path: /assets/img/IMG_7960.jpg
+    alt: "placeholder image 5"
+  
 ---
 # Project Purpose 
 
@@ -42,4 +57,6 @@ The CAD model below demonstrates the assembled plier model that will be sliced a
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e435bbc758b44bca0cd?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+# Photo Gallery of Printed Pliers
 
+{% include gallery caption="Various views of the final printed version of the pliers." %}
