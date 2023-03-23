@@ -33,7 +33,7 @@ The syringe pump comes with two different sized syringe mounts - one 5 mL and on
 
 
 # Arduino Code
-'''cpp
+```cpp
 #include <AccelStepper.h>
 
 float VPSBigSyringe = 0.00272; //VPS = volume per step = mL/step
@@ -115,7 +115,7 @@ analogWrite(red_LED, 40);
     analogWrite(green_LED, 40);
     analogWrite(blue_LED, 0);
     }
-'''
+```
 
 [Link to Arduino Code](/SyringePumpCompletedCode.ino)
 # Bill of Materials (Component List)
