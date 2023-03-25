@@ -5,26 +5,15 @@ header:
   image: /assets/img/Microdevice.jpg
   teaser: /assets/img/Microdevice.jpg
 gallery:
-  - url: /assets/img/IMG_7954
-    image_path: /assets/img/IMG_7954.jpg
-    alt: "placeholder image 1"
-  - url: /assets/img/IMG_7957.jpg
-    image_path: /assets/img/IMG_7957.jpg
-    alt: "placeholder image 2"
-  - url: /assets/img/IMG_7958.jpg
-    image_path: /assets/img/IMG_7958.jpg
-    alt: "placeholder image 3"
-  - url: /assets/img/IMG_7959.jpg
-    image_path: /assets/img/IMG_7959.jpg
-    alt: "placeholder image 4"
-  - url: /assets/img/IMG_7960.jpg
-    image_path: /assets/img/IMG_7960.jpg
-    alt: "placeholder image 5"
+
+
   
 ---
 # Project Purpose 
 
-This project has two main goals. The first is to create a microfluidic device capable of laminar flow mixing at the microscopic level, and the other goal is to utilize additive manufacturing in the form of Vat Photopolymerization (SLA) to fabricate the device and its small features. 
+This project has two main goals. The first is to create a microfluidic device capable of laminar flow mixing at the microscopic level, and the other goal is to utilize additive manufacturing in the form of Vat Photopolymerization (SLA) to fabricate the device and its small features. Since microfluidic devices can be affected by layer lines and uneven layers, SLA 3D printing is used since this method can generate the smallest feature sizes. 
+
+For this project, the fabricated microfluidic device will be tested first with mixing different colored dyes as a basis for the effectiveness of the device. The goal is for the device to successfully mix the dyes before the liquid reaches the outlet. If the device can uphold this standard, then it meets the basic requirements for a microfluidic device that is capable of laminar flow mixing.
 
 # Project Description
 
@@ -44,6 +33,5 @@ The CAD model below is the model that will be imported into the FreeForm softwar
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4339643e9080aa75af?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
-# Photo Gallery of Printed Pliers
+# Photo Gallery of Fabricated Parts
 
-{% include gallery caption="Various views of the final printed version of the pliers." %}
