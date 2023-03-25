@@ -1,5 +1,5 @@
 ---
-title: "Dual Extruded Pliers (TPU and PLA)"
+title: "Microfluidic Device w/ SLA Printed Mold"
 excerpt: "A custom created plier that was specially designed in Fusion 360 to be printed on a dual extruder Makergear 3D printer."
 header:
   image: /assets/img/Microdevice.jpg
