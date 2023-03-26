@@ -51,7 +51,7 @@ For detailed procedure of setup, parameters, and execution, see published manufa
 8. Pack thermite paste into volumes with arbor press or hands depending on the size of test volumes
 9. Let thermite cure in volume for 24 hours over night
 
-# Figures and Descriptions
+# Figures, Descriptions, and Video
 
 {% include gallery caption="This is a gallery of experiments during the research." %}
 
@@ -59,6 +59,10 @@ For detailed procedure of setup, parameters, and execution, see published manufa
 2. Figure 2 - Initial thermite burn experimental setup.
 3. Figure 3 - Depiction of how the steel wire and nichrome/kanthal wires were placed in the 3D printed test volume.
 4. Figure 4 - Setup with thermite filled volume and steel wires hooked up to outside power supply via alligator clips.
+
+
+[Link to Nichrome Wire Test Burn Video](https://user-images.githubusercontent.com/122575035/227807561-94a953eb-a77f-4913-aea1-dca87ccebef4.mp4){:target="_blank"}
+
 
 # Bill of Materials (Component List)
 
