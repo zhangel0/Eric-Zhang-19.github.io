@@ -53,7 +53,7 @@ For detailed procedure of setup, parameters, and execution, see published manufa
 
 # Figures, Descriptions, and Video
 
-{% include gallery caption="This is a gallery of experiments during the research." %}
+{% include gallery caption="This is a gallery of experiments during the research. Figures labeled 1-4 from left to right. See descriptions below." %}
 
 1. Figure 1 - Bottom piece of FSE weld after thermite ignition tests. The top Aluminum plate was removed manually.
 2. Figure 2 - Initial thermite burn experimental setup.
