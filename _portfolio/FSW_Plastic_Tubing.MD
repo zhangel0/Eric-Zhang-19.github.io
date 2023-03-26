@@ -7,7 +7,7 @@ header:
 gallery:
 
 ---
-# Link to video of [second test weld](https://user-images.githubusercontent.com/122575035/227753066-b0d049e9-f113-4469-873d-3b464521a599.mp4){:target="_blank"}
+## Link to video of [second test weld](https://user-images.githubusercontent.com/122575035/227753066-b0d049e9-f113-4469-873d-3b464521a599.mp4){:target="_blank"}
 
 # Project Purpose
 
