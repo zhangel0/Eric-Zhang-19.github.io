@@ -6,10 +6,10 @@ header:
   teaser: /assets/img/FSE_Pipe_Mounting_Overview.jpg
 gallery:
 
-  - url: /assets/img/FSW_ToolHolder_Schematic
+  - url: /assets/img/FSW_ToolHolder_Schematic.jpg
     image_path: /assets/img/FSW_ToolHolder_Schematic.jpg
     alt: "placeholder image 1"
-  - url: /assets/img/FSW_PipeMount
+  - url: /assets/img/FSW_PipeMount.jpg
     image_path: /assets/img/FSW_PipeMount.jpg
     alt: "placeholder image 2"
     
