@@ -7,7 +7,6 @@ header:
 gallery:
 
 ---
-## Link to video of [second test weld](https://user-images.githubusercontent.com/122575035/227753066-b0d049e9-f113-4469-873d-3b464521a599.mp4){:target="_blank"}
 
 # Project Purpose
 
@@ -16,6 +15,8 @@ Friction stir welding (FSW) is a welding process that joins two samples through 
 The FSW process is primarily applied to ductile metals such as aluminum where the shoulder can create sufficient material heating and deformation through surface friction. In this project however, the welding of two plastic PVC pipes are being evaluated where the lower conductivity of plastics inhibits the effectiveness of the shoulder. The goal of this project is to first develop a custom tool and toolholder that will allow for successful FSW of the PVC tubes. The next stage is to assess the integrity of the welds and determine ideal welding parameters, and once this is determined, a comparison between the integrity of the FSW joints and commercial PVC cement joints will be conducted to evaluate the viability and feasibility of the FSW application. 
 
 The ideal end goal of this project is to begin prototyping a small-scale friction stir welder for plastics that is portable and easy to use. The lower force and spindle RPM requirements point towards the possibility of scaling down modern FSW machines.
+
+## [Link to video of test weld](https://user-images.githubusercontent.com/122575035/227753066-b0d049e9-f113-4469-873d-3b464521a599.mp4){:target="_blank"}
 
 # Project Description 
 
