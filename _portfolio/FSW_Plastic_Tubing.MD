@@ -12,7 +12,7 @@ gallery:
 
 Friction stir welding (FSW) is a welding process that joins two samples through mechanical stirring. In FSW the tool consists of a pin and shoulder that rotates and traverses along the joint area. The pin plunges into the two samples and the shoulder creates friction along the surface of the material, heating up the samples to create plastic deformation. The samples are then stirred together when deformed and a stir welded joint is created.
 
-The FSW process is primarily applied to ductile metals such as aluminum where the shoulder can create sufficient material heating and deformation through surface friction. In this project however, the welding of two plastic PVC pipes are being evaluated where the lower conductivity of plastics inhibits the effectiveness of the shoulder. The goal of this project is to first develop a custom tool and toolholder that will allow for successful FSW of the PVC tubes. The next stage is to assess the integrity of the welds and determine ideal welding parameters, and once this is determined, a comparison between the integrity of the FSW joints and commercial PVC cement joints will be conducted to evaluate the viability and feasibility of the FSW application. 
+The FSW process is primarily applied to ductile metals such as aluminum where the shoulder can create sufficient material heating and deformation through surface friction. In this project however, the welding of two plastic PVC pipes are being evaluated where the lower conductivity of plastics inhibits the effectiveness of the shoulder.
 
 The ideal end goal of this project is to begin prototyping a small-scale friction stir welder for plastics that is portable and easy to use. The lower force and spindle RPM requirements point towards the possibility of scaling down modern FSW machines.
 
@@ -20,7 +20,14 @@ The ideal end goal of this project is to begin prototyping a small-scale frictio
 
 # Project Description 
 
-# Drawings and CAD Images
+The initial objective of this project is to first develop a custom tool and toolholder that will allow for successful FSW of the PVC tubes based on the FSW hardware in the Vanderbilt Welding Automation Lab. This includes prototyping and iterating a custom shoe around hardware dimensions and parameters that will serve as the primary connection between the tool and the welded joint. The next step is to assess the integrity of the welds and determine ideal welding parameters (downward Z force, plunge depth, spindle RPM, rotation/traverse speed, etc.), and once this is determined, a comparison between the integrity of the FSW joints and commercial PVC cement joints will be conducted to evaluate the viability and feasibility of the FSW application. 
+
+
+# Drawings and CAD
+
+## Final Shoe Design
+
+<iframe src="https://vanderbilt800.autodesk360.com/shares/public/SHd38bfQT1fb47330c99492b409001bf20e9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Tensile Testing
 
