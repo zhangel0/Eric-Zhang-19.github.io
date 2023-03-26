@@ -37,4 +37,4 @@ The CAD model below is the model that will be imported into the FreeForm softwar
 
 # Photo Gallery of Print and Fabricated Parts
 
-{% include gallery caption ="Mold STL file set up in Freeform software before SLA print." %}
+{% include gallery caption ="Mold STL file set up in Freeform software before SLA print. Cups did not cause print failure." %}
