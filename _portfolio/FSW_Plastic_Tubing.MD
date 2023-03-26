@@ -9,7 +9,7 @@ gallery:
 ---
 # Welding Video
 
-Link to video of [second test weld](https://user-images.githubusercontent.com/122575035/227753066-b0d049e9-f113-4469-873d-3b464521a599.mp4){:target="_blank" rel="noopener"}
+Link to video of [second test weld](https://user-images.githubusercontent.com/122575035/227753066-b0d049e9-f113-4469-873d-3b464521a599.mp4) {:target="_blank" rel="noopener"}
 
 # Project Purpose
 
@@ -24,5 +24,5 @@ Link to video of [second test weld](https://user-images.githubusercontent.com/12
 
 The welded PVC tubing was cut into small approximately rectangular sections and placed into a load frame for tensile testing.
 
-Link to [tensile test video](https://user-images.githubusercontent.com/122575035/227753385-c3cf6930-558b-4af1-afb6-ffeedb51cf16.mp4){:target="_blank" rel="noopener"}
+Link to [tensile test video](https://user-images.githubusercontent.com/122575035/227753385-c3cf6930-558b-4af1-afb6-ffeedb51cf16.mp4) {:target="_blank" rel="noopener"}
 
