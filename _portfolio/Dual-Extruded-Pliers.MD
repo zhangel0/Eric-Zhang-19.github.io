@@ -5,7 +5,7 @@ header:
   image: /assets/img/IMG_7956.jpg
   teaser: /assets/img/IMG_7955.jpg
 gallery:
-  - url: /assets/img/IMG_7954
+  - url: /assets/img/IMG_7954.jpg
     image_path: /assets/img/IMG_7954.jpg
     alt: "placeholder image 1"
   - url: /assets/img/IMG_7957.jpg
