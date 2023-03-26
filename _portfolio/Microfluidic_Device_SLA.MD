@@ -5,7 +5,9 @@ header:
   image: /assets/img/Microdevice.jpg
   teaser: /assets/img/Microdevice.jpg
 gallery:
-
+-   url: /assets/img/FreeFormSetup.jpg
+    image_path: /assets/img/FreeFormSetup.jpg
+    alt: "placeholder image 1"
 
   
 ---
@@ -35,3 +37,4 @@ The CAD model below is the model that will be imported into the FreeForm softwar
 
 # Photo Gallery of Fabricated Parts
 
+{% include gallery caption ="Mold STL file set up in Freeform software before SLA print." %}
