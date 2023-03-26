@@ -17,3 +17,10 @@ https://user-images.githubusercontent.com/122575035/227753066-b0d049e9-f113-4469
 # Project Description
 
 # Drawings and CAD Images
+
+# Tensile Testing
+
+## Hydraulic Load Frame Testing Video
+
+https://user-images.githubusercontent.com/122575035/227753385-c3cf6930-558b-4af1-afb6-ffeedb51cf16.mp4
+
