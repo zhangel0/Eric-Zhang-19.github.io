@@ -20,7 +20,7 @@ The ideal end goal of this project is to begin prototyping a small-scale frictio
 
 # Project Description 
 
-The initial objective of this project is to first develop a custom tool and toolholder that will allow for successful FSW of the PVC tubes based on the FSW hardware in the Vanderbilt Welding Automation Lab. This includes prototyping and iterating a custom shoe around hardware dimensions and parameters that will serve as the primary connection between the tool and the welded joint. The next step is to assess the integrity of the welds and determine ideal welding parameters (downward Z force, plunge depth, spindle RPM, rotation/traverse speed, etc.), and once this is determined, a comparison between the integrity of the FSW joints and commercial PVC cement joints will be conducted to evaluate the viability and feasibility of the FSW application. 
+The initial objective of this project is to first develop a custom tool and toolholder that will allow for successful FSW of the PVC tubes based on the FSW hardware in the Vanderbilt Welding Automation Lab. This includes prototyping and iterating a custom shoe around hardware dimensions and parameters that will serve as the primary connection between the tool and the welded joint. The tool will be fabricated via subtractive machining using a lathe to turn down the tool to fit through a thrust bearing and the pin to 0.25 inches. The next step is to assess the integrity of the welds and determine ideal welding parameters (downward Z force, plunge depth, spindle RPM, rotation/traverse speed, etc.), and once this is determined, a comparison between the integrity of the FSW joints and commercial PVC cement joints will be conducted to evaluate the viability and feasibility of the FSW application. 
 
 
 # Drawings and CAD
@@ -40,6 +40,13 @@ The above CAD model mounts the PVC collar to the pipe rotating mechanism. The mo
 <iframe src="https://vanderbilt800.autodesk360.com/shares/public/SHd38bfQT1fb47330c994620da9497098b81?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 The above CAD model mounts the PVC tube to the pipe rotating mechanism. This mount was 3D printed out of ABS and will be maintained as ABS.
+
+## Spring, Thrust Bearing, and Tool Connector
+
+<iframe src="https://vanderbilt800.autodesk360.com/shares/public/SHd38bfQT1fb47330c99a870abce85c12504?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+The CAD model above depicts the housing for the thrust bearing and spring. The tool will be inserted through all three components where this connector will serve as the main stabilizer for the entire toolholder.
+
 # Tensile Testing
 
 ## Hydraulic Load Frame Testing Video
