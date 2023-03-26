@@ -89,6 +89,6 @@ For detailed procedure of setup, parameters, and execution, see published manufa
 | 3D printed PLA channels for magnesium thermite ignition experiments  | 30|
 
 
-# Link to Published Manufacturing Letter on the Pyrotechnic Joint Formation
+# Publication
 
-https://www.sciencedirect.com/science/article/pii/S2213846322000189
+Link to [Manufacturing Letter](https://www.sciencedirect.com/science/article/pii/S2213846322000189)
