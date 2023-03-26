@@ -9,7 +9,7 @@ gallery:
   - url: /assets/img/FSW_ToolHolder_Schematic
     image_path: /assets/img/FSW_ToolHolder_Schematic.jpg
     alt: "placeholder image 1"
-   - url: /assets/img/FSW_PipeMount
+  - url: /assets/img/FSW_PipeMount
     image_path: /assets/img/FSW_PipeMount.jpg
     alt: "placeholder image 2"
     
