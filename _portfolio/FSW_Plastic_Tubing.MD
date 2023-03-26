@@ -25,10 +25,21 @@ The initial objective of this project is to first develop a custom tool and tool
 
 # Drawings and CAD
 
-## Final Shoe Design
+## Shoe Design
 
 <iframe src="https://vanderbilt800.autodesk360.com/shares/public/SHd38bfQT1fb47330c99492b409001bf20e9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+The CAD model above depicts the final shoe design that was 3D printed out of ABS and implemented in a test weld. The CAD file was converted to a DXF file and CNC machined out of aluminum 6061.
+
+## Pipe Mounts
+
+<iframe src="https://vanderbilt800.autodesk360.com/shares/public/SHd38bfQT1fb47330c995d7db534187013dc?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+The above CAD model mounts the PVC collar to the pipe rotating mechanism. The mount was 3D printed out of ABS and will continue to be maintained out of ABS.
+
+<iframe src="https://vanderbilt800.autodesk360.com/shares/public/SHd38bfQT1fb47330c994620da9497098b81?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+The above CAD model mounts the PVC tube to the pipe rotating mechanism. This mount was 3D printed out of ABS and will be maintained as ABS.
 # Tensile Testing
 
 ## Hydraulic Load Frame Testing Video
