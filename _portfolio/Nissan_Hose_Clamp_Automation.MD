@@ -16,6 +16,8 @@ Nissan's manufacturing plant in Smyrna, TN has been pushing to fully automate as
 
 As a Vanderbilt mechanical engineering senior design project, prototyping for this project was split into five large Design, Built, & Test (DBT) cycles over the course of two full semesters. The team meets weekly with Nissan sponsors of the project and biweekly with project overseers and Vanderbilt professors. As of February 4, 2023, three of these DBT cycles have been successfully completed and significant progress has been made in all aspects of the design project. Currently for the clamp portion of the project we have a new system to sort the clamps efficiently, dispenses the clamps in a controlled manner, and opens the clamps. For the hose and robot side of the project, we have working robot palletization code, an efficient method of mounting the hoses, and a designed tray add-on to the robot stand to keep everything in the same frame of reference at all times. 
 
+[Up to date video of current progress](https://www.youtube.com/watch?v=nlxVqALHQfI){:target="_blank"}
+
 # DBT Cycle 1
 
 The first DBT cycle was primarily fully understanding the problem at hand and basic design thinking implementation. This included understanding the current solution, understanding the robot functions, and mass ideation of designs. After writing down numerous ideas, we narrowed down to four ideas to test and prototype for the first DBT cycle. 
@@ -45,3 +47,17 @@ For the Tray prototype CAD models below, the first CAD model depicts the tray de
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e435870792a0a8f6522?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43827eb7ba4d5d7852?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# DBT Cycle 4
+
+## Integration
+
+Improved design for mounting the tray to the cobot stand with custom 3D printed L brackets with T slots. L brackets reduces stress on the tray itself, and it allows the tray to be mounted farther out. This heavily reduces the possibility of the tray interfering with the cobots movement path, and it reduces likelihood of singularities where two axis line up causing the robot to trigger the emergency stop or fail altogether.
+
+
+### L bracket CAD and Assembly to Cobot Stand
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43a7a802e892baca22?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+
+## Continued Tray Prototyping and Improvement
