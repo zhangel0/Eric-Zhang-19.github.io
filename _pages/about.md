@@ -13,6 +13,7 @@ Eric prides himself on his diverse skill set. His most prominent fields of exper
   * Service Learning Diploma
 * Vanderbilt University
   * Bachelor of Engineering in Mechanical Engineering '23
+  * Digital Fabrication Minor
 
 ## Work Experience
 
