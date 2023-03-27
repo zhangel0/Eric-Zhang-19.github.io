@@ -57,6 +57,8 @@ Improved design for mounting the tray to the cobot stand with custom 3D printed 
 
 ### L bracket CAD and Assembly to Cobot Stand
 
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e439ebcb34ab7cf3df3?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43a7a802e892baca22?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
