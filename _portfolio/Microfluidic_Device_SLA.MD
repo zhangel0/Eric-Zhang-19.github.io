@@ -8,7 +8,9 @@ gallery:
 -   url: /assets/img/FreeFormSetup.jpg
     image_path: /assets/img/FreeFormSetup.jpg
     alt: "placeholder image 1"
-
+-   url: /assets/img/Printed_udevice_mold.jpg
+    image_path: /assets/img/Printed_udevice_mold.jpg
+    alt: "placeholder image 2"
   
 ---
 # Project Purpose 
@@ -37,4 +39,4 @@ The CAD model below is the model that will be imported into the FreeForm softwar
 
 # Photo Gallery of Print and Fabricated Parts
 
-{% include gallery caption ="Mold STL file set up in Freeform software before SLA print. Cups did not cause print failure." %}
+{% include gallery caption ="Mold STL file set up in Freeform software before SLA print (Left). Cups did not cause print failure as shown by completed mold print (Right)." %}
