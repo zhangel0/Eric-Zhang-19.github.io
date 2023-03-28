@@ -19,7 +19,7 @@ Eric prides himself on his diverse skill set. His most prominent fields of exper
 
 ### Wondry Makerspace Maker Tech
 
-Introducing students to the Wondry Makerspace, and 3D printing and laser cutting projects for students. Running molding and casting workshops open to all students, and teaching students how to use silicone and epoxy molds. Exploring hempcrete as a sustainable material alternative to modern architectural materials for basic structures (chairs, tables, walls, etc.). Providing safety training seminars 2 days a week to new students who are interested in using the mechanical and electrical makerspaces.
+Introducing students to the Wondry Makerspace, and 3D printing and laser cutting projects for students. Running molding and casting workshops open to all students, and teaching students how to use silicone and epoxy molds. Maintaining and fixing makerspace equipment including 3D printers, laser cutter, bandsaw, drill press, etc. Exploring hempcrete as a sustainable material alternative to modern architectural materials for basic structures (chairs, tables, walls, etc.). Providing safety training seminars 2 days a week to new students who are interested in using the mechanical and electrical makerspaces.
 
 With STTR grant approval in mid-November: continuing to develop benchtop prototype from Summer Research 2021 into marketable product prototype from November 2021 to February 2022. Created a large insulated box to simulate a closed system that resembles a hot and dry desert-like environment where certain army camps are set up. Tested benchtop prototype in insulated box to simulate device operation in the desert environment.
 
