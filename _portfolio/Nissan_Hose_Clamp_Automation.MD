@@ -63,3 +63,11 @@ Improved design for mounting the tray to the cobot stand with custom 3D printed 
 
 
 ## Continued Tray Prototyping and Improvement
+
+### Palletizing Vertical Mounted Hoses
+
+### Testing Gravity Based Hose Mount
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e434b00f32c47f08553?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+The CAD model above depicts the new custom gripper that will be implemented to test the gravity based mounts.
