@@ -32,13 +32,13 @@ This microfluidic device contains two proven design features intended to facilit
 Vat Photopolymerization was the chosen additive manufacturing method for developing these devices. The fabrication of this device is a three step process. The first step is designing the mold for the device in CAD where the mold will be the negative of the device's features. The second step is setting up the design to be 3D printed in a Formlabs Form 3 to be VPP (SLA) printed and performing necessary post processing of the print. The third and final step is casting the SLA printed mold with polydimethylsiloxane (PDMS) and bonding a glass slide to the cured PDMS device. Having to create the negative for the device made the CAD section of this project more challenging but still obtainable. These devices are very small and must be as accurate as possible. This means the mold must be very precisely 3D printed in order to manufacture a successful microfluidic device. Filament printing is not capable of printing features small enough, or accurate enough as what was required for the mold to this device. This is because the flow of fluids in the device can be adversely affected by layer lines. Vat Photopolymerization is able to print with a high enough accuracy and resolution where the layer lines are not visible. VPP prints can also be post-processed to have strong, uniform mechanical properties, allowing for long lasting use. This makes the expensive resin in VPP printing worth the cost since they will withstand the test of time.
  
 
-# CAD Model
+# Mold CAD Model
 
 The CAD model below is the model that will be imported into the FreeForm software to be SLA printed.
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4339643e9080aa75af?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
-# Photo Gallery of Print and Fabricated Parts
+# Photo Gallery of Fabrication
 
 {% include gallery caption ="Mold STL file set up in Freeform software before SLA print (Left). Cups did not cause print failure as shown by completed mold print (Right)." %}
