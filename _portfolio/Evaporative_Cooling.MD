@@ -5,14 +5,16 @@ header:
   image: 
   teaser: /assets/img/Evap_cooler_TeaserImage.jpg
 feature_row:
-  - image_path: assets/img/Dehumidifier_Test.png
+  - url: /assets/img/Dehumidifier_Test.png
+    image_path: assets/img/Dehumidifier_Test.png
     alt: "Dehumidifier Test"
-    title: "Dehumidifier Test with no Internal Cooling System"
-    excerpt: "Dehumidifier test over time with temperature and humidity monitored. Cooling process takes approximately 350 minutes when box is sitting in AC controlled room set to 70 degrees fahrenheit."
-  - image_path: assets/img/Evap_Cooler_Test.png
+    title: "Dehumidifier Test"
+    excerpt: "Dehumidifier test over time with temperature and humidity monitored."
+  - url: /assets/img/Evap_Cooler_Test.png
+    image_path: assets/img/Evap_Cooler_Test.png
     alt: "Evaporative Cooler Test"
-    title: "Testing the Evaporative Cooler Effectiveness after Dehumidifier Treatment."
-    excerpt: "The benchtop evaporative cooler was tested in the closed environment after the dehumidifier had maximized temperature and minimized humidity in the system."
+    title: "Evaporative Cooler Effectiveness Test"
+    excerpt: "Testing the cooling system over time."
 
 ---
 
