@@ -11,10 +11,7 @@ testData:
   - url: /assets/img/Evap_Cooler_Test.png
     image_path: /assets/img/Evap_Cooler_Test.png
     alt: "placeholder image 2"
-gallery:
-  - url: /assets/img/IMG_7954.jpg
-    image_path: /assets/img/IMG_7954.jpg
-    alt: "placeholder image 1"
+
 ---
 
 # Project Purpose
@@ -53,4 +50,5 @@ Two primary tests were conducted to validate the efficiency of the system.
 - Test 2: Running dehumidifier until max temperature and minimum humidity were reached. Then connect the evaporative cooling system to the box via air duct, and monitor cooling and humidity increase over time. 
 
 ## Data
+
 {% include testData caption="Test 1 on Left and Test 2 on Right." %}
