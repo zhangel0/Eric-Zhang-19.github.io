@@ -39,8 +39,8 @@ This project consists of two main parts: designing the benchtop evaporative cool
 
 Two primary tests were conducted to validate the efficiency of the system. 
 
-Test 1: Running the dehumidifier only until a max temperature and minimum humidity were reached. Then monitor cooling and humidity levels over time without an evaporative cooling system. 
+- Test 1: Running the dehumidifier only until a max temperature and minimum humidity were reached. Then monitor cooling and humidity levels over time without an evaporative cooling system. 
 
-Test 2: Running dehumidifier until max temperature and minimum humidity were reached. Then connect the evaporative cooling system to the box via air duct, and monitor cooling and humidity increase over time. 
+- Test 2: Running dehumidifier until max temperature and minimum humidity were reached. Then connect the evaporative cooling system to the box via air duct, and monitor cooling and humidity increase over time. 
 
 ## Data
