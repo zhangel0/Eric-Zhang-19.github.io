@@ -4,7 +4,7 @@ excerpt: "Early benchtop prototyping of patented evaporative cooling design to d
 header:
   image: 
   teaser: /assets/img/Evap_cooler_TeaserImage.jpg
-testData:
+gallery:
   - url: /assets/img/Dehumidifier_Test.png
     image_path: /assets/img/Dehumidifier_Test.png
     alt: "placeholder image 1"
@@ -51,4 +51,4 @@ Two primary tests were conducted to validate the efficiency of the system.
 
 ## Data
 
-{% include testData caption="Test 1 on Left and Test 2 on Right." %}
+{% include gallery caption="Test 1 on Left and Test 2 on Right." %}
