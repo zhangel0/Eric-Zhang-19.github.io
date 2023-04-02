@@ -40,7 +40,7 @@ The initial objective of this project is to first develop a custom tool and tool
 
 <iframe src="https://vanderbilt800.autodesk360.com/shares/public/SHd38bfQT1fb47330c99492b409001bf20e9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-The CAD model above depicts the final shoe design that was 3D printed out of ABS and implemented in a test weld. The CAD file was converted to a DXF file and CNC machined out of aluminum 6061.
+The CAD model above depicts the final shoe design that was 3D printed out of ABS and implemented in a test weld. The CAD file was converted to a DXF file and the shoe was CNC machined out of aluminum 6061.
 
 ## Pipe Mounts
 
