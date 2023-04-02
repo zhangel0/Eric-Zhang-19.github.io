@@ -4,14 +4,14 @@ excerpt: "Early benchtop prototyping of patented evaporative cooling design to d
 header:
   image: 
   teaser: /assets/img/Evap_cooler_TeaserImage.jpg
-TestData:
+testData:
   - url: /assets/img/Dehumidifier_Test.png
     image_path: /assets/img/Dehumidifier_Test.png
     alt: "placeholder image 1"
   - url: /assets/img/Evap_Cooler_Test.png
     image_path: /assets/img/Evap_Cooler_Test.png
     alt: "placeholder image 2"
-Gallery:
+gallery:
   - url: /assets/img/IMG_7954.jpg
     image_path: /assets/img/IMG_7954.jpg
     alt: "placeholder image 1"
@@ -53,3 +53,4 @@ Two primary tests were conducted to validate the efficiency of the system.
 - Test 2: Running dehumidifier until max temperature and minimum humidity were reached. Then connect the evaporative cooling system to the box via air duct, and monitor cooling and humidity increase over time. 
 
 ## Data
+{% include testData caption="Test 1 on Left and Test 2 on Right." %}
