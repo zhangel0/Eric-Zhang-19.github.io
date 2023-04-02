@@ -4,7 +4,7 @@ excerpt: "Early benchtop prototyping of patented evaporative cooling design to d
 header:
   image: 
   teaser: /assets/img/Evap_cooler_TeaserImage.jpg
-gallery:
+gallery1:
 
 ---
 
@@ -18,4 +18,29 @@ Typical air conditioning units consume copious amounts of energy due to circulat
 
 # Project Description
 
-This project consists of two main parts: designing the benchtop evaporative cooling prototype and the desert-like controlled environment, and testing the prototype in the environment. 
+This project consists of two main parts: designing the benchtop evaporative cooling prototype and the desert-like controlled environment, and testing the prototype in the environment. Most of the components are off the shelf parts including the fan, pump, filter, tubing systems, etc.
+
+## Benchtop Prototype Parts and Description:
+- The fan is used to generate the air flow and forced convection through the system and into the controlled environment.
+- An industrial duct reducer was used to connect the fan to the evaporative cooling system.
+- Honeywell wooden humidifier filters were used as the means of storing the cold water in the flow path of the air in the evaporative cooling system.
+- PVC pipes were cut to size and drilled with evenly spaced 2 mm diameter holes to constantly keep the filters wet with the cold water.
+- The pump was stored in the ice bath reservoir to pump water up to the PVC water dispenser.
+- A custom 3D printed connector was used to connect the flexible pump tubing to the PVC dispenser. The part was coated with epoxy to prevent leaking.
+- An aluminum air duct was used to connect the evaporative cooling system to the controlled environment.
+
+## Controlled Desert-Like Environment
+
+- Closed box environment built from 4 inch thick styrofoam boards. Interior box dimensions were approximately 10 ft x 4 ft x 5 ft or 200 ft3. 
+- A dehumidifier was placed inside the closed system to simultaneously decrease the humidity and increase the temperature.
+- Temperature and humidity sensors were placed at the bottom and near the top of the box to monitor ongoing conditions.
+
+# Testing
+
+Two primary tests were conducted to validate the efficiency of the system. 
+
+Test 1: Running the dehumidifier only until a max temperature and minimum humidity were reached. Then monitor cooling and humidity levels over time without an evaporative cooling system. 
+
+Test 2: Running dehumidifier until max temperature and minimum humidity were reached. Then connect the evaporative cooling system to the box via air duct, and monitor cooling and humidity increase over time. 
+
+## Data
