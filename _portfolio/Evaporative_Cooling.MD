@@ -5,9 +5,16 @@ header:
   image: 
   teaser: /assets/img/Evap_cooler_TeaserImage.jpg
 TestData:
-
+  - url: /assets/img/Dehumidifier_Test.png
+    image_path: /assets/img/Dehumidifier_Test.png
+    alt: "placeholder image 1"
+  - url: /assets/img/Evap_Cooler_Test.png
+    image_path: /assets/img/Evap_Cooler_Test.png
+    alt: "placeholder image 2"
 Gallery:
-
+  - url: /assets/img/IMG_7954.jpg
+    image_path: /assets/img/IMG_7954.jpg
+    alt: "placeholder image 1"
 ---
 
 # Project Purpose
