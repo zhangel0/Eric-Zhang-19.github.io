@@ -13,7 +13,7 @@ feature_row:
   - url: /assets/img/Evap_Cooler_Test.png
     image_path: assets/img/Evap_Cooler_Test.png
     alt: "Evaporative Cooler Test"
-    title: "Evaporative Cooler Effectiveness Test"
+    title: "Evaporative Cooler Test"
     excerpt: "Testing the cooling system over time."
 
 ---
