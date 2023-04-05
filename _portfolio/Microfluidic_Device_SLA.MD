@@ -55,6 +55,7 @@ Iteration changes:
 - Wall height from 3 mm to 6 mm.
 - Wall thickness from 1.5 mm to 3.5 mm.
 - Inner dimensions of mold are 75 mm x 25 mm (outer offset by 3.5 mm).
+- Filleted inner corners for easier device removal from mold.
 # Photo Gallery of Fabrication
 
 {% include gallery caption ="Mold STL file set up in Freeform software before SLA print (Left). Cups did not cause print failure as shown by completed mold print (Right)." %}
