@@ -36,7 +36,7 @@ Vat Photopolymerization was the chosen additive manufacturing method for develop
 
 The CAD model below is the model that will be imported into the FreeForm software to be SLA printed.
 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e4339643e9080aa75af?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e673ac4b67753f316?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
 # Photo Gallery of Fabrication
