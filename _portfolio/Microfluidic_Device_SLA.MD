@@ -50,7 +50,11 @@ The CAD model below shows the second iteration of the mold model.
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e869516604e3e960e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-
+Iteration changes:
+- Hole extrusion from 3 mm to 8 mm.
+- Wall height from 3 mm to 6 mm.
+- Wall thickness from 1.5 mm to 3.5 mm.
+- Inner dimensions of mold are 75 mm x 25 mm (outer offset by 3.5 mm).
 # Photo Gallery of Fabrication
 
 {% include gallery caption ="Mold STL file set up in Freeform software before SLA print (Left). Cups did not cause print failure as shown by completed mold print (Right)." %}
