@@ -34,9 +34,21 @@ Vat Photopolymerization was the chosen additive manufacturing method for develop
 
 # Mold CAD Model
 
-The CAD model below is the model that will be imported into the FreeForm software to be SLA printed.
+## Prototype 1
+The CAD model below is the first prototype model that will be imported into the FreeForm software to be SLA printed.
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e673ac4b67753f316?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+This model failed due to three primary reasons:
+- The mold's hole extrusion and wall extrusion were the same height. When the PDMS was poured into the mold, its surface tension properties caused it to be slightly overfilled, which resulted in the holes not forming.
+- The mold itself was smaller than the required specs since the size of the mold was 75 mm x 25 mm. This made the actual PDMS device smaller than required.
+- The walls of the mold were too thin, which caused significant warping during the PDMS treatment process (temperature fluctuations).
+
+## Prototype 2
+
+The CAD model below shows the second iteration of the mold model.
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e869516604e3e960e?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
 # Photo Gallery of Fabrication
