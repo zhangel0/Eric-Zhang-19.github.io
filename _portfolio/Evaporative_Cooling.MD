@@ -55,5 +55,5 @@ Two primary tests were conducted to validate the efficiency of the system.
 
 ## Data
 
-![](assets/img/Dehumidifier_Test.png)
-{% include feature_row %}
+![Dehumidifier_Test](assets/img/Dehumidifier_Test.png)
+Figure 1: Placing a dehumidifier inside the enclosed environment and observing maximum temperature and minimum humidity levels.
