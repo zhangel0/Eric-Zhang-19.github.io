@@ -70,3 +70,4 @@ Link to [tensile test video](https://user-images.githubusercontent.com/122575035
 
 Parameters: 1000 RPM, 1 IPM 
 ![PVCTest1 1500RPM 1IPM](/assets/img/PVCTest_1500RPM_1IPM_1.png)
+Figure 1: PVC weld test 1 with weld parameters of 1000 RPM and 1 IPM.
