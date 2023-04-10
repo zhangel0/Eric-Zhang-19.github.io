@@ -55,4 +55,5 @@ Two primary tests were conducted to validate the efficiency of the system.
 
 ## Data
 
+![](assets/img/Dehumidifier_Test.png)
 {% include feature_row %}
