@@ -55,9 +55,9 @@ Two primary tests were conducted to validate the efficiency of the system.
 
 ## Data
 
-![Dehumidifier_Test](assets/img/Dehumidifier_Test.png)
+![Dehumidifier_Test](/assets/img/Dehumidifier_Test.png)
 Figure 1: Placing a dehumidifier inside the enclosed environment and observing maximum temperature and minimum humidity levels.
 
 
-![EvaporativeCoolerTest](assets/img/Evap_Cooler_Test.png)
+![EvaporativeCoolerTest](/assets/img/Evap_Cooler_Test.png)
 Figure 2: Creating the desert-like environment with the dehumidifier, then testing the evaporative cooling system in the now hot and dry environment.
