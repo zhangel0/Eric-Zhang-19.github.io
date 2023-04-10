@@ -66,3 +66,6 @@ The welded PVC tubing was cut into small approximately rectangular sections and 
 
 Link to [tensile test video](https://user-images.githubusercontent.com/122575035/227753385-c3cf6930-558b-4af1-afb6-ffeedb51cf16.mp4){:target="_blank"}
 
+## Datasets
+
+Parameters: 1000 RPM, 1 IPM ![](/assets/img/PVCTest_1000RPM_1IPM_1.fig)
