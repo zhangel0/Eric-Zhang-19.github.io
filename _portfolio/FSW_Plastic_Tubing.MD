@@ -68,4 +68,5 @@ Link to [tensile test video](https://user-images.githubusercontent.com/122575035
 
 ## Datasets
 
-Parameters: 1000 RPM, 1 IPM ![](assets/img/PVCTest_1000RPM_1IPM_1.fig)
+Parameters: 1000 RPM, 1 IPM 
+![PVCTest1 1000RPM 1IPM](/assets/img/PVCTest_1000RPM_1IPM_1.fig)
