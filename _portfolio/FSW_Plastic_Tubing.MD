@@ -82,3 +82,43 @@ Figure 3: PVC weld test 1 with weld parameters of 1500 RPM and 1 IPM.
 
 ![PVCTest2_1500RPM_1IPM](/assets/img/PVCTest_1500RPM_1IPM_2.png)
 Figure 4: PVC weld test 2 with weld parameters of 1500 RPM and 1 IPM.
+
+## Matlab Plotting Code
+
+```cpp
+% Tensile Tests for PVC Pipe Welding
+
+
+%cd 'D:\Fall2022CourseWork\ResearchForCredit\PipeMounting - Vanderbilt\PVC Pipe Welding'\PVC_Pipe_TensileTests\;
+s = dir;
+filename = {'PVC_Tension_RawCollar.csv'; 'PVC_Test_1000RPM_1ipm_1.csv'; 'PVC_Test_1000RPM_1ipm_2.csv'; 'PVC_Test_1500RPM_1ipm_1.csv'; 'PVC_Test_1500RPM_1ipm_2.csv'};
+width = [10.55 10.80 10.33 7.61 7.86];
+thick = [3.95 3.95 3.95 3.95 3.95];
+for i = 1:length(filename)  
+f = readmatrix(filename{i});       %Read the csv
+        T = f;
+        time = T(1:end-2,3);
+        Load = T(1:end-2,2);
+        disp = T(1:end-2,1);
+        t = linspace(time(1),time(end-2),500);
+        %N_smooth =csaps(time,Load,0.99,t);     %Smoothing function for the load
+        %E_smooth = csaps(time,disp,0.999,t);
+        %S_smooth = N_smooth/
+        %maxL = [maxL max(N_smooth)]
+        %L(k) = max(N_smooth)  ;                  %Max Load for each repetiion
+        %E(k) = max(E_smooth);
+        A(i) = width(i)*thick(i);
+        MPA = Load*10^3/(width(i)*thick(i));
+        UTS(i) = max(MPA);
+        plot(disp,MPA)
+        hold on
+end
+    
+
+xlabel('Crosshead Displacement (mm)')
+ylabel('Load (MPA)')
+
+legend('Neat', '1000_1', '1000_2', '1500_1', '1500_2')
+UTS
+
+cpp
