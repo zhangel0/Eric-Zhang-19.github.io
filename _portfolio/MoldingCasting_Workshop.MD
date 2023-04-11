@@ -17,7 +17,17 @@ gallery:
 
 # Workshop Purpose
 
-## Legoman Two Part Mold
+This workshop exposes students to the Wond'ry makerspace at Vanderbilt by providing them with hands-on experience with one of the many rapid prototyping methods available. The workshops are held officially twice a semester, and unofficial walk-ins throughout the year are also offered to make the workshop available to as many students as possible. 
+
+# Molding & Casting Process
+
+## Two-Part Legoman Mold
+
+## One-Part Molds
+
+# CAD for 3D Printed Molds
+
+## Legoman Two Part Mold CAD
 
 <iframe src="https://vanderbilt800.autodesk360.com/shares/public/SHd38bfQT1fb47330c9949474d81dff60356?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
