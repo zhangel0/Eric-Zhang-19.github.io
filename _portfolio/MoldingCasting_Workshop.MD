@@ -2,8 +2,8 @@
 title: "Molding & Casting Workshops"
 excerpt: "Teaching students who are interested the basics of silicone/epoxy molding & casting with 3D printed two-part Legoman mold and more."
 header:
-  image: /assets/img/IMG-4587.jpg
-  teaser: /assets/img/IMG-4587.jpg
+  image: /assets/img/LegoManTeaser.png
+  teaser: /assets/img/LegoManTeaser.png
 gallery:
 
   - url: /assets/img/FSW_ToolHolder_Schematic.jpg
