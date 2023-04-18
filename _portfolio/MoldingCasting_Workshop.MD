@@ -53,4 +53,3 @@ The CAD model above depicts the top piece of the two part mold.
 
 ## One-Part Molds
 
-# CAD for 3D Printed Molds
