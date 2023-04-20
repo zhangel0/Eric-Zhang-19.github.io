@@ -18,9 +18,17 @@ Generative design (GD) is a feature in Fusion 360 that autogenerates designs bas
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e48ee69ee2e6eb7f6?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-The CAD model above shows the original top of the podium that was designed as well as the GD workspace.
+The CAD model above shows the original top of the podium that was designed. This model contains the GD workspace where the constraints, forces, preserve geometries, and obstacle geometries were applied.
 ### Iteration 1
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e20d1f12c86f30eb9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+The CAD model above was one of the ideal results from the first set of GD solutions. This version wasn't bad; however, there were excessive overhangs that were too extreme.
 ### Iteration 2
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e92d3de7de57e10cb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+This CAD model edited a few of the obstacle and preserve geometries from the first iteration. The result still came out with more extreme overhangs than intended.
 ### Iteration 3
 ## Discussion
 ## Small Scale Product
