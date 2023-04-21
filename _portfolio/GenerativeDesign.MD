@@ -37,6 +37,7 @@ This CAD model edited a few of the obstacle and preserve geometries from the fir
 
 This CAD model above was queued onto a 3D printer without supports; however, the print failed.
 
+
 ## Discussion
 
 The first iteration of the podium was more of a test of generative design. The initial 
