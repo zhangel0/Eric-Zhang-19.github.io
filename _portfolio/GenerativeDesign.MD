@@ -18,7 +18,7 @@ Generative design (GD) is a feature in Fusion 360 that autogenerates designs bas
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e48ee69ee2e6eb7f6?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-The CAD model above shows the original top of the podium that was designed. This model contains the GD workspace where the constraints, forces, preserve geometries, and obstacle geometries were applied.
+The CAD model above shows the original top of the podium that was designed. This model contains the GD workspace where the constraints, forces, preserve geometries, and obstacle geometries were applied. An image of the workspace is shown below.
 
 ![GD Workspace](/assets/img/PodiumV13.png)
 
