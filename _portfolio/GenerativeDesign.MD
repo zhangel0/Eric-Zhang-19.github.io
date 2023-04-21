@@ -40,7 +40,11 @@ This CAD model above was queued onto a 3D printer without supports; however, the
 
 ## Discussion
 
-The first iteration of the podium was more of a test of generative design. The initial 
+The first iteration of the podium was more of a test of generative design. The general structure of the preserve and obstacles geometries were created prior to the iteration 1. The normal and shear forces were also implemented first for this iteration. The first iteration was far from ideal because of a few factors. In GD the preserve geometries have to be linearly visible with respect to each other, and in the first design, the sides of the preserve geometries were not visible (only the back sides were visible). 
+
+For the second iteration this was changed so that the preserve geometries were linearly visible on three sides (all but the front). While this was fixed, the second iteration still selected 6 axis for additive manufacturing, which made it difficult to print without supports. 
+
+The third iteration selected only two axis for additive manufacturing and increased the overhang angle to 60 degrees from horizontal. Even though these parameters were changed, there were still some overhangs less than 45 degrees in the generated models. This could be due to the forces being too high, so the model requires those supports to have smaller overhang angles.
 ## Small Scale Product
 
 # Generative Design Research and Applications
