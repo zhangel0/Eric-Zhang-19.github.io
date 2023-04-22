@@ -72,5 +72,5 @@ The image above depicts the final mold that was plasma treated and bonded to a g
 
 The two images above depict tests of the dye mixing in the mold.
 
-## [Link to video of test](https://github.com/zhangel0/zhangel0.github.io/blob/15fc95dd19c7e6de1affef757e8904fc3bcd7efb/assets/img/IMG_8164.mov){:target="_blank"}
+## [Link to video of test](https://github.com/zhangel0/zhangel0.github.io/blob/d15aafd71e7b25c94d34e6aaf51648ebb63e7606/assets/img/IMG_8164.mp4){:target="_blank"}
 
