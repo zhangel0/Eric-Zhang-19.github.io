@@ -59,3 +59,17 @@ Iteration changes:
 # Photo Gallery of Fabrication
 
 {% include gallery caption ="Mold STL file set up in Freeform software before SLA print (Left). Cups did not cause print failure as shown by completed mold print (Right)." %}
+
+# Completed Mold and Testing
+
+![FinalMold](/assets/img/Microfluidic_Final_Mold.png)
+
+The image above depicts the final mold that was plasma treated and bonded to a glass screen.
+
+![Mold Testing 1](/assets/img/Microfluidic_Mold_Test1.png)
+
+![Mold Testing 2](/assets/img/Microfluidic_Mold_Test2.png)
+
+The two images above depict tests of the dye mixing in the mold.
+
+## Link to video of test
