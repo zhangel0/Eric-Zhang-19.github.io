@@ -3,7 +3,7 @@ title: "Generative Design of Podium Stand"
 excerpt: "Utilizing Fusion 360 generative design feature to create a custom podium that can be printed with minimal support material."
 header:
   image:
-  teaser:
+  teaser: assets/img/PodiumV13.png
 gallery:
 
 ---
