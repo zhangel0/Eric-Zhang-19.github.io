@@ -27,9 +27,33 @@ The ideal end goal of this project is to begin prototyping a small-scale frictio
 
 # Project Description 
 
-The initial objective of this project is to first develop a custom tool and toolholder that will allow for successful FSW of the PVC tubes based on the FSW hardware in the Vanderbilt Welding Automation Lab. This includes prototyping and iterating a custom shoe around hardware dimensions and parameters that will serve as the primary connection between the tool and the welded joint. The tool will be fabricated via subtractive machining using a lathe to turn down the tool to fit through a thrust bearing and the pin to 0.25 inches. The next step is to assess the integrity of the welds and determine ideal welding parameters (downward Z force, plunge depth, spindle RPM, rotation/traverse speed, etc.), and once this is determined, a comparison between the integrity of the FSW joints and commercial PVC cement joints will be conducted to evaluate the viability and feasibility of the FSW application. 
+The initial objective of this project is to first develop a custom tool and toolholder that will allow for successful FSW of the PVC tubes based on the FSW hardware in the Vanderbilt Welding Automation Lab, specifically the rotary table and the Friction Stir Welder's z-axis constraints. This includes prototyping and iterating a custom shoe around hardware dimensions and parameters that will serve as the primary connection between the tool and the welded joint. The tool will be fabricated via subtractive machining using a lathe to turn down the tool to fit through a thrust bearing and the pin to 0.25 inches. The next step is to assess the integrity of the welds and determine ideal welding parameters (downward Z force, plunge depth, spindle RPM, rotation/traverse speed, etc.), and once this is determined, a comparison between the integrity of the FSW joints and commercial PVC cement joints will be conducted to evaluate the viability and feasibility of the FSW application. 
 
+In the test video linked above, an ABS prototype shoe was used to as a proof-of-concept test to verify that the shoe and tool design would allow for successful welding of the PVC tubing. The PVC shoulder and tube were successfully welded together, so a Design of Experiments (DOE) with the finalized aluminum tool was set up. 
 
+## Design of Experiment
+
+The following variables will be kept constant:
+- Plunge Depth (0.22 in)
+- XYZ forces of the FSW
+- Shoe Temperature (373K)
+- Traverse distance (373 degrees of rotation)
+
+The variables under investigation are Traverse/Rotary IPM and Spindle/Tool RPM:
+- Tool RPM variations: 1200, 1500, & 1800
+- Rotary IPM variations: 1.00, 1.75, & 2.50
+Each weld combination will be done three times. The following combinations will yield a total of 27 required welds.
+
+A randomized welding schedule was created with three blocks for the experiment. Each block will contain nine unique welds in a random order.
+
+Each pipe weld will be cut for tensile testing as 0.25 in thick rectangular pieces. Each pipe will undergo three tensile tests in the following weld locations:
+1. 0.25 inch in front of weld ending position
+2. 180 degrees from weld ending position
+3. 0.25 inch behind weld ending position
+
+The integrity of the FSW welds will be tested against welds created by commercial PVC cement. Four tubes will be welded with PVC cement and one random 0.25 in thick section will be cut from each for tensile testing.
+
+This will yield a total of 85 tensile tests (81 from FSW and 4 from cement). The FSW tensile tests will be compared against each other to determine the ideal parameters to friction stir weld PVC. The comparison against the cement welds will assess the feasibility of FSW as a process of welding PVC.
 # Drawings and CAD
 
 ## Schematics and Dimensions
@@ -58,7 +82,7 @@ The above CAD model mounts the PVC tube to the pipe rotating mechanism. This mou
 
 The CAD model above depicts the housing for the thrust bearing and spring. The tool will be inserted through all three components where this connector will serve as the main stabilizer for the entire toolholder.
 
-# Tensile Testing
+# Tensile Testing Prototype Welds
 
 ## Hydraulic Load Frame Testing Video
 
