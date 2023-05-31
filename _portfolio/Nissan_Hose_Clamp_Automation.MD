@@ -71,3 +71,9 @@ Improved design for mounting the tray to the cobot stand with custom 3D printed 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e434b00f32c47f08553?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 The CAD model above depicts the new custom gripper that will be implemented to test the gravity based mounts.
+
+# DBT Cycle 5
+
+DBT 5 is the last DBT cycle, so this cycle was used to finalize design and make necessary preparations for Senior Design Day. This includes a final report, summary poster, and presentation prep. 
+
+
