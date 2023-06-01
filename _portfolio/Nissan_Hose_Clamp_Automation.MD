@@ -2,7 +2,7 @@
 title: "Nissan Hose Clamp Automation Project"
 excerpt: "Current mechanical engineering senior design project that partners with Nissan to fully automate a hose clamping subassembly process. Working in conjunction with four other team members."
 header:
-  image: /assets/img/Senior_Design.jpg
+  image: /assets/img/DesignDayPoster.png
   teaser: /assets/img/Cobot_Arm.jpg
 gallery:
 
@@ -14,7 +14,7 @@ Nissan's manufacturing plant in Smyrna, TN has been pushing to fully automate as
 
 # Project Description
 
-As a Vanderbilt mechanical engineering senior design project, prototyping for this project was split into five large Design, Built, & Test (DBT) cycles over the course of two full semesters. The team meets weekly with Nissan sponsors of the project and biweekly with project overseers and Vanderbilt professors. As of February 4, 2023, three of these DBT cycles have been successfully completed and significant progress has been made in all aspects of the design project. Currently for the clamp portion of the project we have a new system to sort the clamps efficiently, dispenses the clamps in a controlled manner, and opens the clamps. For the hose and robot side of the project, we have working robot palletization code, an efficient method of mounting the hoses, and a designed tray add-on to the robot stand to keep everything in the same frame of reference at all times. 
+As a Vanderbilt mechanical engineering senior design project, prototyping for this project was split into five large Design, Built, & Test (DBT) cycles over the course of two full semesters. The team meets weekly with Nissan sponsors of the project and biweekly with project overseers and Vanderbilt professors. As of May 4, 2023, these DBT cycles have been successfully completed and significant progress has been made in all aspects of the design project. Currently for the clamp portion of the project we have a new system to sort the clamps efficiently, dispenses the clamps in a controlled manner, and opens the clamps. For the hose and robot side of the project, we have working robot palletization code, an efficient method of mounting the hoses, and a designed tray add-on to the robot stand to keep everything in the same frame of reference at all times. 
 
 [Up to date video of current progress](https://www.youtube.com/watch?v=nlxVqALHQfI){:target="_blank"}
 
