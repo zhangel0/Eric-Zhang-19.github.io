@@ -63,10 +63,9 @@ Improved design for mounting the tray to the cobot stand with custom 3D printed 
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH35dfcQT936092f0e43a7a802e892baca22?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+[Gravity Mount Test Video](https://github.com/zhangel0/zhangel0.github.io/assets/122575035/74831339-3b52-42fc-a3d3-931575e191f3){:target="_blank"}
 
-## Continued Tray Prototyping and Improvement
 
-### Palletizing Vertical Mounted Hoses
 
 ### Testing Gravity Based Hose Mount
 
